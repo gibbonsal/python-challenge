@@ -1,0 +1,23 @@
+(base) theluggage@As-MacBook-Pro Resources % cd /Users/theluggage/Desktop/DataAnalyticsBootcampHomework/python-challenge/PyPoll/         
+(base) theluggage@As-MacBook-Pro PyPoll % ls
+Resources	main.py
+(base) theluggage@As-MacBook-Pro PyPoll % python3 main.py
+Election Results
+----------------
+Total Votes: 3521001
+----------------
+Khan: 63.000%% (2218231)
+Correy: 20.000%% (704200)
+Li: 14.000%% (492940)
+O'Tooley: 3.000%% (105630)
+----------------
+Winner: Khan
+(base) theluggage@As-MacBook-Pro PyPoll % 
+
+
+
+
+
+
+
+
