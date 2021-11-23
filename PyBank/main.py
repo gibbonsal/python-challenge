@@ -6,7 +6,7 @@ import csv
 import math
 
 #Read the CSV file and skip the header.
-with open('/Users/theluggage/python-challenge/PyBank/Resources/budget_data 3.csv', 'r') as csvfile:
+with open('../Resources/budget_data 3.csv', 'r') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=",")
     csv_header = next(csvreader)
 
