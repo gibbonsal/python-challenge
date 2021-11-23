@@ -5,7 +5,7 @@ import csv
 import os
 
 # Files to load and output
-file_to_load = os.path.join("/Users/theluggage/python-challenge/PyPoll/Resources/PyPoll_Resources_election_data.csv")
+file_to_load = os.path.join("../Resources/PyPoll_Resources_election_data.csv")
 
 #Create variables and establish votes as a dictionary.
 total_votes = 0
